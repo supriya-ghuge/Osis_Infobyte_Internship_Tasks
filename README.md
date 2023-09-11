@@ -1,4 +1,4 @@
-# Osis_Infobyte_Internship_Tasks
+#OIBGRIP
 
 Web Development internship project given by Oasis Infobyte (Level 2)  
 
